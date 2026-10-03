@@ -48,7 +48,7 @@ npm install -g @nolgia/cli
 # or
 curl -fsSL https://raw.githubusercontent.com/nolgiainc/nolgia-cli/main/install.sh | bash
 
-nolgia login
+nolgia auth login
 nolgia models list
 ```
 
