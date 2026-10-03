@@ -27,7 +27,7 @@ Image, video and audio generation through one app, API, CLI and MCP server.
 
 NOLGIA brings the best image, video and audio models into one place, with the tools to turn single generations into finished work.
 
-| | |
+| Product | What it does |
 |---|---|
 | 🎬 **Create** | Text, images and your own footage into video, images, voiceover, music and sound, on the leading models, with credits priced per generation. |
 | ✂️ **Studio** | A timeline editor for assembling clips, audio and overlays into a finished piece, ready to export. |
