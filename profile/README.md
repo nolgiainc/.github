@@ -52,6 +52,14 @@ nolgia auth login
 nolgia models list
 ```
 
+**SDKs** for Python, TypeScript and Rust, generated from the [OpenAPI spec](https://docs.nolgia.ai/api/openapi.yaml):
+
+```bash
+pip install nolgia          # Python
+npm install @nolgia/sdk     # TypeScript
+cargo add nolgia            # Rust
+```
+
 **MCP server** for Claude, Cursor, Codex and any MCP client:
 
 ```
