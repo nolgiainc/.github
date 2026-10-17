@@ -80,7 +80,11 @@ npx skills add nolgiainc/nolgia-skills
 | [**homebrew-nolgia**](https://github.com/nolgiainc/homebrew-nolgia) | Homebrew tap for the CLI |
 | [**nolgia-skills**](https://github.com/nolgiainc/nolgia-skills) | Skills for Claude Code, Cursor, Codex and other agents |
 | [**cursor-plugin**](https://github.com/nolgiainc/cursor-plugin) | A `/nolgia` command for Cursor over the MCP server |
-| [**nolgia-plugins**](https://github.com/nolgiainc/nolgia-plugins) | Connect Blender and other creative apps so your agent can work in them |
+| [**nolgia-blender**](https://github.com/nolgiainc/nolgia-blender) | NOLGIA for Blender |
+| [**nolgia-adobe**](https://github.com/nolgiainc/nolgia-adobe) | NOLGIA for After Effects, Premiere Pro and Illustrator |
+| [**nolgia-photoshop**](https://github.com/nolgiainc/nolgia-photoshop) | NOLGIA for Photoshop |
+| [**nolgia-resolve**](https://github.com/nolgiainc/nolgia-resolve) | NOLGIA for DaVinci Resolve Studio |
+| [**nolgia-plugins**](https://github.com/nolgiainc/nolgia-plugins) | The index of the plugins above: connect your creative apps so your agent can work in them |
 
 ## Security
 
